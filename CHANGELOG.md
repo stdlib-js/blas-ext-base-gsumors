@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-10)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`c36f0e7`](https://github.com/stdlib-js/stdlib/commit/c36f0e73214c70c686defbaf5adc2d3e86a6595b) - **refactor:** update `blas/ext/base/gsumors` to follow current project conventions [(#4679)](https://github.com/stdlib-js/stdlib/pull/4679) _(by Muhammad Haris)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Muhammad Haris
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
