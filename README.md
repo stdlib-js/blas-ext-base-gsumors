@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import gsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsumors@esm/index.mjs';
+import gsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsumors@v0.3.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsumors@esm/index.mjs';
+import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsumors@v0.3.1-esm/index.mjs';
 ```
 
 #### gsumors( N, x, strideX )
@@ -151,7 +151,7 @@ var v = gsumors.ndarray( 4, x, 2, 1 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import gsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsumors@esm/index.mjs';
+import gsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsumors@v0.3.1-esm/index.mjs';
 
 var x = discreteUniform( 10, -100, 100, {
     'dtype': 'float64'
